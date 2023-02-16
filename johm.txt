@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Answers</title>
+    <style>
+      /* Basic styling for the page */
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      h1 {
+        font-size: 2em;
+        margin-bottom: 20px;
+      }
+      section {
+        margin-bottom: 30px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+      }
+      h2 {
+        font-size: 1.5em;
+        margin-top: 0;
+      }
+      p {
+        margin-top: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Answers to Questions</h1>
+    </header>
+    <main>
+      <section>
+        <h2>Question 1</h2>
+        <p>What is the capital of France?</p>
+        <h3>Answer</h3>
+        <p>Paris</p>
+        <h3>Explanation</h3>
+        <p>Paris is the capital of France.</p>
+      </section>
+      <section>
+        <h2>Question 2</h2>
+        <p>What is the largest country in the world?</p>
+        <h3>Answer</h3>
+        <p>Russia</p>
+        <h3>Explanation</h3>
+        <p>Russia is the largest country in the world by land area.</p>
+      </section>
+    </main>
+  </body>
+</html>
